@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <main>
-        <h1>You want that</h1>
+        <h1>Header</h1>
       </main>
       <div className="canvas-wrapper">
         <ThreeWrapper />
